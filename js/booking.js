@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // ===== WHATSAPP CONFIRMATION =====
   document.getElementById('whatsappConfirm').addEventListener('click', function() {
-    const phone = '+5971234567'; // Replace with actual number
+    const phone = '+5978434699'; // Replace with actual number
     const message = `Booking Request:
     Location: ${state.location}
     Date: ${state.date}
